@@ -8,13 +8,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/malaysia-airlines/</loc>
-		<lastmod>2021-05-29T17:45:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/cover-scaled.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/project/invisalign/</loc>
 		<lastmod>2022-09-21T10:13:44+00:00</lastmod>
 		<image:image>
@@ -85,13 +78,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/project/discover-penang-with-rilakkuma/</loc>
-		<lastmod>2022-09-21T10:19:57+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/Cover.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/project/end-the-year-with-a-new-perspective/</loc>
 		<lastmod>2022-09-21T10:20:12+00:00</lastmod>
 		<image:image>
@@ -100,7 +86,7 @@
 	</url>
 	<url>
 		<loc>/project/mamee-monster/</loc>
-		<lastmod>2022-09-21T14:26:58+00:00</lastmod>
+		<lastmod>2023-02-17T18:38:44+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/09/1920x1080-desktop.jpg</image:loc>
 		</image:image>
@@ -118,6 +104,32 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2022/09/Contest-Reminder-Post-Brief.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/project/discover-penang-with-rilakkuma/</loc>
+		<lastmod>2023-02-17T19:03:39+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/Cover.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/Cover.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/3adf8b41099221.5798bf7ab75d8.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/Rila.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/Screenshot-2021-04-09-at-1.19.46-AM.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/project/malaysia-airlines/</loc>
+		<lastmod>2023-02-17T19:07:00+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/04/cover-scaled.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
