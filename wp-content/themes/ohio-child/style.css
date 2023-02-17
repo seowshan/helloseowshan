@@ -1,0 +1,109 @@
+/*!
+Theme Name: Ohio-Child
+Theme URI: http://ohio.colabr.io/
+Author: Colabrio
+Author URI: http://colabr.io/
+Description: Ohio is a WordPress theme bundled with premium plugins to build a modern and functional website.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: ohio
+Text Domain: ohio-child
+Tags: ajax, customizer, ecommerce, portfolio, minimal, page builder, responsive, multipurpose, shop, store, woocommerce, wpml
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+/*Home Page Title*/
+.home-title h1.title {
+    font-family: 'blacker_pro_display-regular';
+    font-size: 3.5vw !important;
+    letter-spacing: -1px !important;
+    line-height: 1.02em !important;
+}
+@media screen and (max-width: 1024px) {
+    .home-title h1.title {
+        font-size: 4vw !important;
+    }
+}
+@media screen and (max-width: 767px) {
+    .home-title h1.title {
+        font-size: 5.5vw !important;
+    }
+}
+@media screen and (max-width: 499px) {
+    .home-title h1.title {
+        font-size: 6vw !important;
+    }
+}
+
+/*Home Page - Purpose Img*/
+.purpose-img img {
+    padding-top: 50px;
+}
+@media screen and (max-width: 767px) {
+    .purpose-img img {
+        width: 50%;
+    }
+
+    .purpose-img-spacer .elementor-spacer-inner {
+        height: 15px !important;
+    }
+}
+
+/* Project Page */
+.project-page-content .project-title .headline {
+    margin-top: 0 !important;
+    letter-spacing: 0;
+}
+
+.project-task .heading-sm {
+    display: none;
+}
+
+/*Mod*/
+/*Project Page*/
+.project-page-content .headline,
+.sticky-nav .sticky-nav-holder .sticky-nav_heading {
+    display: none;
+}
+
+@media screen and (min-width: 1099px) {
+    h1.headline {
+        font-size: 60px;
+    }
+}
+
+.project-page .project-meta li {
+    min-width: calc(30% - 25px);
+}
+
+#colophon .site-info-holder .left {
+    text-align: left !important;
+    float: left !important;
+}
+
+#colophon .site-info-holder .right {
+    text-align: right !important;
+    float: right !important;
+}
+
+@media screen and (max-width: 768px) {
+    .site-footer .left, .site-footer .right {
+        width: 50% !important;
+    }
+
+    .site-footer .right {
+        margin-top: 0 !important;
+    }
+
+    .portfolio-item-details {
+        display: none !important;
+    }
+}
+
+.login #nav { display: none; }
